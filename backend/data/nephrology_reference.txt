@@ -1,0 +1,64 @@
+NEPHROLOGY REFERENCE MANUAL FOR POST-DISCHARGE CARE
+
+SECTION 1: CHRONIC KIDNEY DISEASE (CKD) OVERVIEW
+
+1.1 Definition and Stages
+Chronic Kidney Disease (CKD) is a long-term condition where the kidneys do not work as well as they should. It is classified into 5 stages based on eGFR (estimated Glomerular Filtration Rate):
+- Stage 1: Kidney damage with normal kidney function (eGFR 90 or higher).
+- Stage 2: Kidney damage with mild loss of kidney function (eGFR 89 to 60).
+- Stage 3a: Mild to moderate loss of kidney function (eGFR 59 to 45).
+- Stage 3b: Moderate to severe loss of kidney function (eGFR 44 to 30).
+- Stage 4: Severe loss of kidney function (eGFR 29 to 15).
+- Stage 5: Kidney failure (eGFR less than 15).
+
+1.2 Common Symptoms
+- Fatigue and weakness
+- Swelling (edema) in feet and ankles
+- Shortness of breath
+- Nausea and vomiting
+- Muscle cramps
+- Sleep problems
+- Changes in urine output (too much or too little)
+
+SECTION 2: POST-DISCHARGE MANAGEMENT
+
+2.1 Fluid Management
+Patients with CKD, especially those on dialysis or in later stages, often need to limit fluid intake.
+- Daily Weight: Weigh yourself every morning after urinating and before eating/drinking.
+- Warning Sign: Gaining more than 2 kg (4.4 lbs) in 2 days or 3 kg (6.6 lbs) in a week indicates fluid retention.
+- Edema: Check for swelling in legs, ankles, or around eyes.
+- Action: If rapid weight gain or swelling occurs, contact your healthcare provider immediately.
+
+2.2 Dietary Restrictions
+- Sodium (Salt): Limit to less than 2,000 mg per day. Avoid processed foods, canned soups, and salty snacks.
+- Potassium: High potassium can stop the heart. Avoid bananas, oranges, potatoes, tomatoes, and spinach if advised.
+- Phosphorus: High phosphorus weakens bones. Limit dairy, nuts, seeds, and dark colas.
+- Protein: Moderate protein intake is usually recommended, but requirements vary by stage and dialysis status.
+
+2.3 Medication Safety
+- NSAIDs: Avoid Non-Steroidal Anti-Inflammatory Drugs (e.g., Ibuprofen, Naproxen) as they can worsen kidney function.
+- ACE Inhibitors / ARBs: (e.g., Lisinopril, Losartan) are often prescribed to protect kidneys but require monitoring of potassium levels.
+- Diuretics: (e.g., Furosemide) help remove excess fluid. Take exactly as prescribed, usually in the morning to avoid night-time urination.
+
+SECTION 3: WARNING SIGNS REQUIRING URGENT CARE
+
+3.1 When to Call the Doctor
+- Fever over 100.4°F (38°C)
+- Painful urination or blood in urine
+- Persistent nausea or vomiting
+- Severe weakness or dizziness
+- Shortness of breath that doesn't get better with rest
+
+3.2 When to Go to ER
+- Chest pain
+- Severe difficulty breathing
+- Mental confusion or inability to wake up
+- Seizures
+
+SECTION 4: LATEST TREATMENTS (2024 UPDATE)
+
+4.1 SGLT2 Inhibitors
+Drugs like Dapagliflozin and Empagliflozin, originally for diabetes, are now standard of care for many CKD patients to slow progression, even without diabetes.
+
+4.2 Finerenone
+A non-steroidal mineralocorticoid receptor antagonist used to reduce the risk of kidney function decline in CKD associated with type 2 diabetes.
